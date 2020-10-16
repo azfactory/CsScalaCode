@@ -1,0 +1,6 @@
+D:\GIT\CsSampleApp\ClassLibrarySample\bin\Debug\ClassLibrarySample.dll
+D:\GIT\CsSampleApp\ClassLibrarySample\bin\Debug\ClassLibrarySample.pdb
+D:\GIT\CsSampleApp\ClassLibrarySample\obj\Debug\ClassLibrarySample.csprojAssemblyReference.cache
+D:\GIT\CsSampleApp\ClassLibrarySample\obj\Debug\ClassLibrarySample.csproj.CoreCompileInputs.cache
+D:\GIT\CsSampleApp\ClassLibrarySample\obj\Debug\ClassLibrarySample.dll
+D:\GIT\CsSampleApp\ClassLibrarySample\obj\Debug\ClassLibrarySample.pdb

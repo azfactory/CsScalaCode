@@ -1,0 +1,10 @@
+D:\GIT\CsSampleApp\CsSampleApp\bin\Debug\CsSampleApp.exe.config
+D:\GIT\CsSampleApp\CsSampleApp\bin\Debug\CsSampleApp.exe
+D:\GIT\CsSampleApp\CsSampleApp\bin\Debug\CsSampleApp.pdb
+D:\GIT\CsSampleApp\CsSampleApp\bin\Debug\ClassLibrarySample.dll
+D:\GIT\CsSampleApp\CsSampleApp\bin\Debug\ClassLibrarySample.pdb
+D:\GIT\CsSampleApp\CsSampleApp\obj\Debug\CsSampleApp.csprojAssemblyReference.cache
+D:\GIT\CsSampleApp\CsSampleApp\obj\Debug\CsSampleApp.csproj.CoreCompileInputs.cache
+D:\GIT\CsSampleApp\CsSampleApp\obj\Debug\CsSampleApp.csproj.CopyComplete
+D:\GIT\CsSampleApp\CsSampleApp\obj\Debug\CsSampleApp.exe
+D:\GIT\CsSampleApp\CsSampleApp\obj\Debug\CsSampleApp.pdb
